@@ -1,0 +1,140 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "58786406-b4ba-475c-95ca-5f0150c8f1c7")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 34.29 53.34)
+		(size 25.4 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "39446186-465d-44c6-96a9-99ef222ae8fa")
+		(property "Sheetname" "Signal"
+			(at 34.29 52.6284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Signal.kicad_sch"
+			(at 34.29 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32 ESC PCB Design"
+				(path "/58786406-b4ba-475c-95ca-5f0150c8f1c7"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 34.29 30.48)
+		(size 25.4 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8ebf52f6-f575-47f0-8af1-e0bbbee8fb68")
+		(property "Sheetname" "Power Control"
+			(at 34.29 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet2.kicad_sch"
+			(at 34.29 41.2246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32 ESC PCB Design"
+				(path "/58786406-b4ba-475c-95ca-5f0150c8f1c7"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 34.29 73.66)
+		(size 25.4 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ffd1cd83-2639-41c0-8f47-68233a3c7949")
+		(property "Sheetname" "STM32G431C8U6"
+			(at 34.29 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STM32G431C8U6.kicad_sch"
+			(at 34.29 84.4046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32 ESC PCB Design"
+				(path "/58786406-b4ba-475c-95ca-5f0150c8f1c7"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
