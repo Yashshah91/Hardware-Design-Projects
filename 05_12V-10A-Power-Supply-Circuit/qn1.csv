@@ -1,0 +1,13 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C3";"C_Radial_D5.0mm_H11.0mm_P2.00mm";1;"10uF";;;
+2;"F2";"Fuse_BelFuse_0ZRE0150FF_L23.4mm_W5.3mm";1;"Fuse 10A";;;
+3;"J1";"PinHeader_1x02_P2.54mm_Vertical";1;"Output 12V";;;
+4;"F1";"Fuse_BelFuse_0ZRE0150FF_L23.4mm_W5.3mm";1;"Fuse 1A";;;
+5;"Q2,Q1";"TO-218-3_Vertical";2;"TIP2955 with Heatsink";;;
+6;"R2,R1,R3";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";3;"0.1 Ohm 5W";;;
+7;"D1";"DIP-4_W7.62mm";1;"10-50 PIV Bridge Rectifier";;;
+8;"C1";"C_Radial_D16.0mm_H25.0mm_P7.50mm";1;"47000uF 50V";;;
+9;"C2";"C_Radial_D10.0mm_H12.5mm_P5.00mm";1;"470uF";;;
+10;"J2";"PinHeader_1x02_P2.54mm_Vertical";1;"Conn_01x02";;;
+11;"U1";"TO-220-3_Vertical";1;"LM1084-5.0";;;
+12;"T1";"Transformer_CHK_EI54-12VA_1xSec";1;"12V - 10A Transformer";;;
